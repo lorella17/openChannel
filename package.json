@@ -1,0 +1,19 @@
+{
+  "name": "openchannel",
+  "version": "1.0.0",
+  "description": "app for managers that offers a channel to communicate and build manager/employee relationships through one on one meetings, reviews, career goals etc.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lorella17/openChannel.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lorella17/openChannel/issues"
+  },
+  "homepage": "https://github.com/lorella17/openChannel#readme"
+}
